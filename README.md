@@ -138,25 +138,25 @@ AgroCulture-Management-System/
 <div>
   <h2>📸 Screenshots</h2>
   <h4>🏠 Home Page</h4>
-  <img src="screenshots/home-page.png" alt="Home Page"/>
+  <img src="AgroCulture/screenshots/home-page.png" alt="Home Page"/>
   
   <h4>🔑 Login Page</h4>
-  <img src="screenshots/login-page.png" alt="Login Page"/>
+  <img src="AgroCulture/screenshots/login-page.png" alt="Login Page"/>
   
   <h4>📝 Registration Page</h4>
-  <img src="screenshots/registration-page.png" alt="Registration Page"/>
+  <img src="AgroCulture/screenshots/registration-page.png" alt="Registration Page"/>
 
   <h4>👤 Profile View</h4>
-  <img src="screenshots/profile-view.png" alt="Profile View"/>
+  <img src="AgroCulture/screenshots/profile-view.png" alt="Profile View"/>
 
   <h4>🛍️ Product Card</h4>
-  <img src="screenshots/product-card.png" alt="Product Card"/>
+  <img src="AgroCulture/screenshots/product-card.png" alt="Product Card"/>
 
   <h4>🛒 Cart View</h4>
-  <img src="screenshots/cart-view.png" alt="Cart View"/>
+  <img src="AgroCulture/screenshots/cart-view.png" alt="Cart View"/>
 
   <h4>💳 Order Now Page</h4>
-  <img src="screenshots/order-now-page.png" alt="Order Now Page"/>
+  <img src="AgroCulture/screenshots/order-now-page.png" alt="Order Now Page"/>
 </div>
 
 ---
