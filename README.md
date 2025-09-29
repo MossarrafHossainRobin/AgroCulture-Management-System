@@ -79,7 +79,7 @@
 <div>
   <h2>📁 Project Structure</h2>
   <pre style="font-family: monospace;">
-AgroCulture-Management-System/
+AgroCulture-Management-System/AgroCulture/
 ├── CSS/
 │   ├── commentBox.css
 │   ├── font-awesome.min.css
@@ -123,13 +123,15 @@ AgroCulture-Management-System/
 │   └── verify.php
 │
 └── screenshots/
-    ├── home-page.png
-    ├── login-page.png
-    ├── registration-page.png
-    ├── profile-view.png
-    ├── product-card.png
-    ├── cart-view.png
-    └── order-now-page.png
+│   ├── home-page.png
+│   ├── login-page.png
+│   ├── registration-page.png
+│   ├── profile-view.png
+│   ├── product-card.png
+│   ├── cart-view.png
+│   └── order-now-page.png
+└── MySQL/
+    └──agroculture.sql
   </pre>
 </div>
 
